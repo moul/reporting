@@ -1,6 +1,8 @@
 Kima Reporting
 ==================
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/reporting.svg)](https://www.guardrails.io)
+
 Kima Reporting is an opensource reporting tool for VCs.
 
 Features
